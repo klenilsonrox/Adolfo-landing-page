@@ -114,7 +114,7 @@ export function Contact() {
                 />
               </div>
 
-              <Button type="submit" className="w-full bg-navy-600 hover:bg-navy-700">
+              <Button type="submit" className="w-full text-amber-800 bg-amber-100 border border-amber-800 cursor-pointer hover:bg-navy-700">
                 Enviar Mensagem
               </Button>
             </form>

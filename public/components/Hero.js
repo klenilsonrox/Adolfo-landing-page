@@ -26,7 +26,7 @@ export function Hero() {
               oferecer soluções jurídicas eficientes para seus problemas.
             </p>
             <div className="flex flex-col space-y-3 sm:flex-row sm:space-x-4 sm:space-y-0">
-              <Button className="bg-navy-600 hover:bg-navy-700 curpor-pointer">Agende uma Consulta</Button>
+              <Button className="bg-navy-600 hover:bg-navy-700 curpor-pointer bg-amber-100 border border-amber-800 cursor-pointer text-amber-800 hover:bg-[#fe980041]">Agende uma Consulta</Button>
               <Button variant="outline" className="border-navy-600 text-navy-600 hover:bg-navy-50 cursor-pointer">
                 Conheça meus Serviços
               </Button>
